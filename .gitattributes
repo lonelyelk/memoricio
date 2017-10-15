@@ -1,0 +1,2 @@
+/public/*/*.min.* -diff
+/public/js/*.elm.js -diff

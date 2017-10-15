@@ -1,0 +1,24 @@
+{
+  "name": "memoricio",
+  "version": "0.0.1",
+  "description": "Standalone platform for memorizing anything you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elm",
+    "spa",
+    "memorize",
+    "offline"
+  ],
+  "author": "Sergey Kruk <sergey.kruk@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-elm": "^0.7.2",
+    "gulp-rename": "^1.2.2",
+    "purecss": "^1.0.0"
+  }
+}
