@@ -12,7 +12,15 @@
     "memorize",
     "offline"
   ],
-  "author": "Sergey Kruk <sergey.kruk@gmail.com>",
+  "author": {
+    "name": "Sergey Kruk",
+    "email": "sergey.kruk@gmail.com",
+    "url": "https://lonelyelk.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lonelyelk/elm-template.git"
+  },
   "license": "Apache-2.0",
   "dependencies": {
     "gulp": "^3.9.1",
